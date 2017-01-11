@@ -1,5 +1,7 @@
 # slideToggle
 
+[Working Example](https://jsfiddle.net/tLjm97od/)
+
 ##HTML Setup
 ```
 <div class="title" id="question1">Question Here</div>
